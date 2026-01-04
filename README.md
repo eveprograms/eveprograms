@@ -1,5 +1,5 @@
 # About
-*I’m @evepanzarino. I go to Full Sail University in Web Development.
+* I’m @evepanzarino. I go to Full Sail University in Web Development.
 * This is my live project account.
 
 # Dev Blog
