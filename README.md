@@ -24,6 +24,7 @@
 + Keeping it Real by Making it Teal!
 - Personal Instagram: https://instagram.com/evekeepsitrealbymakingitteal
 - Memorial Account: https://instagram.com/keepingitrealbymakingitteal
+- Tumblr: https://KeepingitRealbyMakingitTeal.tumblr.com
 
 ## Philosophy Socials:
 + Thoughtful Writing
