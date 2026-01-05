@@ -20,6 +20,11 @@
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
 - Twitch: https://twitch.tv/evepanzarino
 
+## Ovarian Cancer Awareness:
++ Keeping it Real by Making it Teal!
+- Personal Instagram: https://instagram.com/evekeepsitrealbymakingitteal
+- Memorial Account: https://instagram.com/keepingitrealbymakingitteal
+
 ## Philosophy Socials:
 + Thoughtful Writing
 - Instagram: https://instagram.com/evephilosophy
