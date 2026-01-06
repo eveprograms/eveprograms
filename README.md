@@ -2,32 +2,29 @@
 * I’m @evepanzarino. I go to Full Sail University in Web Development.
 * This is my live project account.
 
-# Dev Blog
+## Dev Blog
 * * *
-## Programming: Socials:
-
-* Github: https://github.com/eveprograms
+### Programming Socials:
 - Instagram: https://instagram.com/eveprograms
 - Youtube: https://youtube.com/@eveprograms
 - Bluesky: https://bsky.app/profile/eveprograms.bsky.social
 - Twitch: https://twitch.tv/eveprograms
 
-# Personal Accounts
-- - -
-## Main Socials:
+## Personal Accounts
+### Main:
 - Instagram: https://instagram.com/eveldapanzarino
 - Youtube: https://youtube.com/@evepanzarino
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
 - Twitch: https://twitch.tv/evepanzarino
 
 ## Ovarian Cancer Awareness:
-+ Keeping it Real by Making it Teal!
+### Keeping it Real by Making it Teal!
 - Personal Instagram: https://instagram.com/evekeepsitrealbymakingitteal
 - Memorial Account: https://instagram.com/keepingitrealbymakingitteal
 - Tumblr: https://KeepingitRealbyMakingitTeal.tumblr.com
 
 ## Philosophy Socials:
-+ Thoughtful Writing
+### Thoughtful Writing
 - Instagram: https://instagram.com/evephilosophy
 - Youtube: https://youtube.com/@evephilosophy
 - Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
