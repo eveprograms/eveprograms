@@ -1,7 +1,7 @@
 # About
 * I’m @evepanzarino. I go to Full Sail University in Web Development.
 * This is my live project account.
-* * *
+
 ## Dev Blog
 ### Programming Socials:
 - Instagram: https://instagram.com/eveprograms
@@ -26,7 +26,6 @@
 - Memorial Account: https://instagram.com/keepingitrealbymakingitteal
 - Tumblr: https://KeepingitRealbyMakingitTeal.tumblr.com
 
-* * *
 
 ## Philosophy Socials:
 ### Thoughtful Writing
