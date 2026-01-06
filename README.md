@@ -14,8 +14,8 @@
 
 # Personal Blog
 
-## Personal Accounts
-### Main:
+## Main:
+### Eve Panzarino
 - Instagram: https://instagram.com/eveldapanzarino
 - Youtube: https://youtube.com/@evepanzarino
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
