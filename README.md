@@ -2,8 +2,9 @@
 * I’m @evepanzarino. I go to Full Sail University in Web Development.
 * This is my live project account.
 
-## Dev Blog
-### Programming Socials:
+# Dev Blog
+- https://eveprograms.tumblr.com
+## Programming Socials:
 - Instagram: https://instagram.com/eveprograms
 - Youtube: https://youtube.com/@eveprograms
 - Bluesky: https://bsky.app/profile/eveprograms.bsky.social
