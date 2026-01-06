@@ -14,14 +14,14 @@
 
 # Personal Blog
 
-## Main:
+## Main Socials:
 ### Eve Panzarino
 - Instagram: https://instagram.com/eveldapanzarino
 - Youtube: https://youtube.com/@evepanzarino
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
 - Twitch: https://twitch.tv/evepanzarino
 
-## Ovarian Cancer Awareness:
+## Ovarian Cancer Socials:
 ### Keeping it Real by Making it Teal!
 - Personal Instagram: https://instagram.com/evekeepsitrealbymakingitteal
 - Memorial Account: https://instagram.com/keepingitrealbymakingitteal
